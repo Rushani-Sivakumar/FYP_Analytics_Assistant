@@ -1,0 +1,55 @@
+﻿product_name,invoice_id,unit_of_measure,total_amount,quantity,transaction_date,unit_price,product_category
+,INV3282,,315.0,1.5,06/01/25,210.00,Dry Goods
+VEGETABLE OIL 1 L,INV4346,l,"LKR 4,500.00",5 l,08/01/25,Rs. 900.00,Oils
+Soda 1L,INV9963,pcs,Rs. 470.00, ,23 Jan 2025,Rs. 235.00,Beverages
+Turmeric Powder 100g,INV6400,pack,"Rs.2,500",10,2025-01-24,250.00, Spices 
+Mung-1 kg,,,156.25,0.25,2025-01-28,625, Dry Goods 
+Karawala 250 g,INV4860,pack, ,3,30 Jan 2025,625, Dry Goods 
+COCONUT,INV9086,pcs,"LKR 1,125.00",9,2025-01-30,Rs. 125.00, Fresh 
+Pol Tel 1L,INV2194,l,"Rs. 1,085.00",one,2025-02-09,1085,Oils
+BREAD 450 g,INV1579,pcs,330.00,2,2025-02-09,165.00,BAKERY
+BISCUIT (200G),INV6666,pack,260, ,9 Feb 2025,130,Packaged
+CHILLI POWDER (250G),INV2159,pack,2800,8 pack,2025-02-23,350,
+Biscuit 200 g,INV7819,pack,560,4,2025-03-04,140,packaged
+bread 450g,INV2320,pcs,165,1,6 Mar 2025, ,bakery
+NADU RICE-1 kg,,kg,0.0,,08/03/25,245,dry goods
+Milk Powder 400 g,INV3121,pack,"Rs.9,270",9,3 Apr 2025,1030,dairy
+ ,INV5432,kg,235.00,,2025-04-16,Rs. 235.00,DRY GOODS
+Instant Noodles,INV1683,pcs,155,,23/04/25,155.00,PACKAGED
+SUGAR-1 kg,INV2704,kg,Rs. 140.00,0.5,27/04/25,,Dry Goods
+Mung-1 kg,INV1583,kg,"Rs. 2,800.00",5,2025-05-06,,Dry Goods
+WHEAT FLOUR (1KG),INV9136,kg,250,one,2025-05-06,250,DRY GOODS
+dish wash liquid 500ml,INV9316,pcs,1725,5,2025-05-08,LKR 345.00,
+,INV4690,pack,910,7,,LKR 130.00,
+Karawala 250 g,INV6738,pack,"Rs. 7,920.00",12pack,2025-05-17,Rs.660,dry goods
+,INV8069,kg,635.00,1 kg,,-635,Dry Goods
+curry powder 250g,INV8824,pack,580,2pack,30 May 2025,Rs.290, Spices 
+Dishwash 500 ml,INV5971,pcs,1020,3pcs,2025-05-30,340,Household
+SOAP 100g,INV4731,pcs,725,5,2025-06-04,145.00,HOUSEHOLD
+ ,INV1351,pcs,220,2,2025-06-10,110,FRESH
+Lunu 1kg,INV1906,pack,945, ,13/06/25,Rs.105,dry goods
+ ,INV1431,pack,"Rs. 2,500.00",ten,29/06/25,250,spices
+Kaha-100 g,INV4214, ,Rs.940,4,02/07/25,Rs.235,Spices
+VEGETABLE OIL 1 L,INV9752,l,0.0,5,2025-07-07,915,oils
+VEGETABLE OIL 1 L,INV7215,l,1860,two,23 Jul 2025,930,Oils
+Biscuit 200 g,INV1296,pack,"Rs. 1,300.00",10 pack,31 Jul 2025,130, Packaged 
+NADU (1KG),INV8899,kg,470,2,13 Aug 2025,LKR 235.00,DRY GOODS
+Eggs,INV1854, ,200,five,2025-08-16,LKR 40.00,Fresh
+Turmeric Powder 100 g,INV7342,pack,1715,7,2025-09-03,245.00,Spices
+Mineral Water 500ml,INV7180,pcs,1050,,11 Sep 2025,LKR 105.00, Beverages 
+Biscuit-200 g,INV3051,pack,LKR 115.00,1pack,2025-09-15,115,Packaged
+coconut oil 1 L,INV8040,l,"LKR 1,930.00",2,2025-09-27,LKR 965.00, Oils 
+SOFT DRINK (1L),INV7993,pcs,"Rs. 3,000.00",12,2025-10-02,LKR 250.00, Beverages 
+Soft Drink 1L,INV3257,pcs,LKR 450.00,2,2025-10-05,-225,BEVERAGES
+Sabun-100 g,INV2893,pcs,,10pcs,06/10/25,140,household
+,INV8175,kg,Rs.338,1.5,2025-10-10,225,DRY GOODS
+chilli powder 250g,,pack,1675,5 pack,18 Oct 2025,335,
+MILK POWDER (400G),INV7024,pack,12100,11,29/10/25,"LKR 1,100.00",Dairy
+Kiri Piti 400g,INV6763,pack,960.00,1pack,2025-11-05,Rs.960,dairy
+Piti 1 kg,INV4172,kg,56.25,0.25, ,225, Dry Goods 
+SUGAR 1 kg,INV6621,kg,LKR 260.00,1,1 Dec 2025,260, Dry Goods 
+Vegetable Oil 1L,INV8152,l,"LKR 1,515.00",1.5,2 Dec 2025,0,oils
+chilli powder 250g,INV1949,pack,1825,5,03/12/25,LKR 365.00,Spices
+nadu rice-1 kg,INV4902,kg, ,0.5 kg,3 Dec 2025,,Dry Goods
+Eggs,INV4801,pcs,240,6 pcs,24/12/25,40,fresh
+,INV2507,pcs,,1pcs,28/12/25,245,

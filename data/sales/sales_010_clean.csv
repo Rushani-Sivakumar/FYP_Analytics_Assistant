@@ -1,0 +1,131 @@
+﻿product_category,invoice_id,unit_of_measure,quantity,transaction_date,product_name,total_amount,unit_price
+Fresh,INV8357,pcs,11.0,2025-01-07,Coconut,1210.0,110
+Dry Goods,INV3277,kg,0.5,2025-01-08,Wheat Flour 1kg,110.0,220
+Packaged,INV5164,pack,1.0,2025-01-08,Biscuits 200g,125.0,125
+Dry Goods,INV4328,kg,0.25,2025-01-09,Wheat Flour 1kg,65.0,260
+Dairy,INV7763,pack,9.0,2025-01-10,Milk Powder 400g,8730.0,970
+Dry Goods,INV2521,kg,0.25,2025-01-11,Wheat Flour 1kg,62.5,250
+Household,INV1622,pack,11.0,2025-01-13,Laundry Detergent 1kg,5665.0,515
+Dry Goods,INV1406,pack,10.0,2025-01-18,Salt 1kg,950.0,95
+Household,INV9531,pcs,1.0,2025-01-19,Soap 100g,125.0,125
+Packaged,INV3613,pack,3.0,2025-01-21,Biscuits 200g,390.0,130
+Dry Goods,INV5277,kg,0.5,2025-01-22,Samba Rice 1kg,137.5,275
+Dairy,INV6298,pack,3.0,2025-01-22,Milk Powder 400g,3015.0,1005
+Spices,INV1928,pack,1.0,2025-01-28,Chilli Powder 250g,355.0,355
+Beverages,INV9544,pcs,2.0,2025-02-02,Mineral Water 500ml,200.0,100
+Dry Goods,INV2907,kg,1.5,2025-02-03,Sugar 1kg,427.5,285
+Dry Goods,INV5327,kg,1.0,2025-02-10,Samba Rice 1kg,260.0,260
+Dry Goods,INV8055,kg,0.25,2025-02-13,Samba Rice 1kg,66.25,265
+Beverages,INV5868,pcs,10.0,2025-02-21,Mineral Water 500ml,950.0,95
+Dry Goods,INV8240,pack,9.0,2025-02-23,Salt 1kg,855.0,95
+Dry Goods,INV1675,kg,2.0,2025-02-25,Wheat Flour 1kg,480.0,240
+Packaged,INV3471,pcs,10.0,2025-03-01,Instant Noodles,1400.0,140
+Spices,INV4245,pack,1.0,2025-03-01,Chilli Powder 250g,335.0,335
+Household,INV7854,pcs,7.0,2025-03-04,Dish Wash Liquid 500ml,2450.0,350
+Dry Goods,INV1098,kg,2.5,2025-03-14,Sugar 1kg,687.5,275
+Household,INV8203,pack,1.0,2025-03-18,Laundry Detergent 1kg,550.0,550
+Dry Goods,INV5843,pack,10.0,2025-03-25,Salt 1kg,1100.0,110
+Oils,INV2840,l,0.25,2025-03-26,Vegetable Oil 1L,252.5,1010
+Household,INV9060,pack,8.0,2025-03-27,Laundry Detergent 1kg,3880.0,485
+Dry Goods,INV1970,kg,5.0,2025-04-03,Nadu Rice 1kg,1050.0,210
+Oils,INV8010,l,1.0,2025-04-06,Vegetable Oil 1L,950.0,950
+Spices,INV1208,pack,1.0,2025-04-08,Chilli Powder 250g,375.0,375
+Spices,INV3742,pack,8.0,2025-04-08,Turmeric Powder 100g,1680.0,210
+Beverages,INV3841,pack,6.0,2025-04-10,Tea Leaves 400g,2490.0,415
+Household,INV6947,pack,2.0,2025-04-16,Laundry Detergent 1kg,940.0,470
+Beverages,INV3781,pcs,12.0,2025-04-17,Soft Drink 1L,2760.0,230
+Household,INV6498,pcs,10.0,2025-04-22,Soap 100g,1400.0,140
+Fresh,INV6292,pcs,3.0,2025-04-23,Coconut,360.0,120
+Spices,INV4312,pack,7.0,2025-04-26,Curry Powder 250g,2030.0,290
+Household,INV2315,pcs,8.0,2025-04-27,Soap 100g,1120.0,140
+Packaged,INV4083,pack,8.0,2025-04-27,Biscuits 200g,1080.0,135
+Dairy,INV5171,pack,11.0,2025-04-27,Milk Powder 400g,12155.0,1105
+Dry Goods,INV2528,pack,6.0,2025-04-29,Salt 1kg,660.0,110
+Household,INV8374,pcs,1.0,2025-04-30,Dish Wash Liquid 500ml,360.0,360
+Spices,INV7901,pack,5.0,2025-05-06,Turmeric Powder 100g,1125.0,225
+Dry Goods,INV4055,kg,1.5,2025-05-07,Samba Rice 1kg,345.0,230
+Dry Goods,INV4059,pack,2.0,2025-05-16,Dried Fish 250g,1250.0,625
+Spices,INV9945,pack,7.0,2025-05-16,Chilli Powder 250g,2765.0,395
+Fresh,INV1461,pcs,11.0,2025-05-23,Eggs,385.0,35
+Fresh,INV6675,pcs,3.0,2025-05-29,Eggs,105.0,35
+Fresh,INV5901,pcs,11.0,2025-05-31,Coconut,1320.0,120
+Spices,INV2134,pack,3.0,2025-06-06,Turmeric Powder 100g,645.0,215
+Dry Goods,INV9057,kg,2.5,2025-06-06,Sugar 1kg,775.0,310
+Spices,INV7061,pack,11.0,2025-06-07,Curry Powder 250g,3135.0,285
+Dry Goods,INV5356,kg,2.0,2025-06-08,Sugar 1kg,520.0,260
+Household,INV1517,pcs,11.0,2025-06-11,Soap 100g,1595.0,145
+Beverages,INV2576,pack,5.0,2025-06-12,Tea Leaves 400g,2175.0,435
+Dry Goods,INV7363,pack,4.0,2025-06-14,Dried Fish 250g,2480.0,620
+Spices,INV5052,pack,12.0,2025-06-17,Curry Powder 250g,3360.0,280
+Dry Goods,INV8358,kg,2.0,2025-06-18,Green Gram 1kg,1330.0,665
+Fresh,INV1592,pcs,11.0,2025-06-23,Coconut,1320.0,120
+Fresh,INV6750,pcs,7.0,2025-06-28,Eggs,245.0,35
+Fresh,INV5393,pcs,6.0,2025-06-28,Coconut,720.0,120
+Household,INV3698,pcs,7.0,2025-07-01,Dish Wash Liquid 500ml,2380.0,340
+Dry Goods,INV2861,kg,2.0,2025-07-10,Samba Rice 1kg,530.0,265
+Dry Goods,INV8300,kg,2.5,2025-07-13,Green Gram 1kg,1525.0,610
+Household,INV4079,pcs,11.0,2025-07-16,Soap 100g,1595.0,145
+Dry Goods,INV4345,kg,2.0,2025-07-23,Wheat Flour 1kg,510.0,255
+Packaged,INV4461,pcs,11.0,2025-07-25,Instant Noodles,1540.0,140
+Household,INV7653,pack,8.0,2025-07-27,Laundry Detergent 1kg,4320.0,540
+Dry Goods,INV2692,pack,3.0,2025-07-29,Dried Fish 250g,2130.0,710
+Packaged,INV1430,pack,1.0,2025-07-29,Biscuits 200g,125.0,125
+Bakery,INV9899,pcs,3.0,2025-07-31,Bread 450g,510.0,170
+Beverages,INV3680,pcs,1.0,2025-08-06,Soft Drink 1L,225.0,225
+Beverages,INV7935,pack,5.0,2025-08-09,Tea Leaves 400g,2350.0,470
+Spices,INV6799,pack,9.0,2025-08-10,Chilli Powder 250g,3465.0,385
+Household,INV8111,pcs,8.0,2025-08-11,Soap 100g,1040.0,130
+Household,INV2787,pcs,2.0,2025-08-12,Dish Wash Liquid 500ml,770.0,385
+Beverages,INV3238,pcs,1.0,2025-08-16,Mineral Water 500ml,110.0,110
+Dry Goods,INV1997,pack,4.0,2025-08-18,Salt 1kg,380.0,95
+Household,INV7271,pack,7.0,2025-08-21,Laundry Detergent 1kg,3815.0,545
+Packaged,INV5667,pcs,11.0,2025-08-23,Instant Noodles,1485.0,135
+Spices,INV7331,pack,6.0,2025-08-25,Turmeric Powder 100g,1320.0,220
+Household,INV5551,pack,4.0,2025-08-26,Laundry Detergent 1kg,2020.0,505
+Beverages,INV7697,pcs,5.0,2025-08-30,Soft Drink 1L,1100.0,220
+Oils,INV8856,l,1.5,2025-09-01,Coconut Oil 1L,1425.0,950
+Oils,INV7160,l,1.5,2025-09-01,Vegetable Oil 1L,1477.5,985
+Beverages,INV5255,pack,5.0,2025-09-06,Tea Leaves 400g,2400.0,480
+Dry Goods,INV8594,kg,0.25,2025-09-08,Nadu Rice 1kg,58.75,235
+Dry Goods,INV6826,kg,1.0,2025-09-08,Green Gram 1kg,610.0,610
+Packaged,INV7265,pcs,5.0,2025-09-08,Instant Noodles,800.0,160
+Beverages,INV3778,pack,3.0,2025-09-11,Tea Leaves 400g,1290.0,430
+Beverages,INV6421,pcs,12.0,2025-09-17,Soft Drink 1L,2880.0,240
+Dry Goods,INV1782,kg,2.5,2025-09-19,Wheat Flour 1kg,575.0,230
+Dry Goods,INV5284,kg,5.0,2025-09-23,Green Gram 1kg,2825.0,565
+Dry Goods,INV6783,kg,2.5,2025-09-27,Wheat Flour 1kg,562.5,225
+Dry Goods,INV1949,kg,1.5,2025-09-29,Sugar 1kg,442.5,295
+Fresh,INV2273,pcs,2.0,2025-10-05,Coconut,210.0,105
+Packaged,INV6008,pack,11.0,2025-10-08,Biscuits 200g,1485.0,135
+Dry Goods,INV5060,pack,10.0,2025-10-10,Salt 1kg,1100.0,110
+Oils,INV3543,l,1.5,2025-10-15,Coconut Oil 1L,1485.0,990
+Household,INV6835,pack,5.0,2025-10-16,Laundry Detergent 1kg,2500.0,500
+Dairy,INV8676,pack,6.0,2025-10-20,Milk Powder 400g,6300.0,1050
+Oils,INV1255,l,0.5,2025-10-23,Coconut Oil 1L,520.0,1040
+Packaged,INV3795,pack,2.0,2025-10-24,Biscuits 200g,260.0,130
+Oils,INV9431,l,5.0,2025-10-25,Coconut Oil 1L,4725.0,945
+Dry Goods,INV8076,kg,1.0,2025-10-30,Wheat Flour 1kg,225.0,225
+Fresh,INV2962,pcs,6.0,2025-10-31,Eggs,240.0,40
+Fresh,INV1135,pcs,10.0,2025-11-03,Eggs,350.0,35
+Packaged,INV3363,pack,6.0,2025-11-05,Biscuits 200g,780.0,130
+Household,INV9535,pcs,6.0,2025-11-06,Dish Wash Liquid 500ml,2070.0,345
+Beverages,INV6641,pcs,1.0,2025-11-08,Soft Drink 1L,210.0,210
+Dry Goods,INV6487,kg,2.0,2025-11-12,Nadu Rice 1kg,420.0,210
+Dry Goods,INV2754,pack,1.0,2025-11-16,Salt 1kg,110.0,110
+Spices,INV5110,pack,1.0,2025-11-21,Curry Powder 250g,255.0,255
+Dry Goods,INV4906,kg,0.5,2025-11-21,Red Dhal 1kg,150.0,300
+Spices,INV9662,pack,11.0,2025-11-23,Chilli Powder 250g,4070.0,370
+Dry Goods,INV3508,kg,2.0,2025-11-25,Samba Rice 1kg,500.0,250
+Fresh,INV6281,pcs,1.0,2025-11-26,Coconut,120.0,120
+Packaged,INV6465,pack,7.0,2025-11-28,Biscuits 200g,840.0,120
+Beverages,INV3309,pcs,12.0,2025-11-30,Soft Drink 1L,2880.0,240
+Dry Goods,INV1183,kg,2.0,2025-12-08,Red Dhal 1kg,700.0,350
+Household,INV5032,pcs,6.0,2025-12-10,Dish Wash Liquid 500ml,2130.0,355
+Dairy,INV4041,pack,5.0,2025-12-13,Milk Powder 400g,4975.0,995
+Fresh,INV9872,pcs,8.0,2025-12-16,Eggs,280.0,35
+Fresh,INV7707,pcs,4.0,2025-12-17,Eggs,140.0,35
+Packaged,INV6527,pcs,6.0,2025-12-19,Instant Noodles,810.0,135
+Dry Goods,INV2930,pack,7.0,2025-12-21,Salt 1kg,700.0,100
+Bakery,INV9793,pcs,5.0,2025-12-22,Bread 450g,900.0,180
+Bakery,INV3001,pcs,3.0,2025-12-23,Bread 450g,465.0,155
+Oils,INV9668,l,5.0,2025-12-28,Coconut Oil 1L,4725.0,945

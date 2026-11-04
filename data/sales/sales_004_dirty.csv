@@ -1,0 +1,103 @@
+﻿Invoice No,Product Name,Rate,Line Total,Qty Sold,Purchase Date,Cat,Per
+INV3486,GREEN GRAM 1kg,665,665,1kg,7 Jan 2025,DRY GOODS,kg
+INV9692,Tea Leaves 400g,480,"Rs. 1,440.00",3,2025-01-13, Beverages ,pack
+INV9602,DISHWASH (500ML),380,2280,6 pcs,2025-01-14,Household,pcs
+INV1769,Turmeric Powder 100g,225,1575, ,15/01/25,spices,pack
+INV9735,Dish Wash Liquid 500ml,360,2160,6,20/01/25,Household,pcs
+,Eggs,35,,11pcs,21/01/25,Fresh,pcs
+INV9838,,225,,3,,Spices,pack
+INV4775,Red Dhal 1kg,Rs. 300.00, ,2,2025-01-25,DRY GOODS,kg
+INV9697,Laundry Detergent 1kg,Rs.465,5580,12,2025-02-12,HOUSEHOLD,pack
+INV3732,Biscuit 200 g,115,115,one,15/02/25,Packaged,pack
+,Soft Drink 1L,235,2820,12,2025-02-18,beverages,pcs
+INV3600,Soap 100g, ,875.00,7,2025-02-20,household,pcs
+INV2640,Soap 100g,130,1430,11,20/02/25,HOUSEHOLD,pcs
+INV3713,Turmeric Powder 100g,230.00,Rs. 230.00,one,2025-02-21,Spices,pack
+INV4707,Karawala-250 g,730,2920,4,2025-02-23,Dry Goods,pack
+INV3491,Coconut Oil 1L,1010,505.00,0.5,2025-02-25,Oils,l
+INV9860,Paan-450 g,165.00,165,1,2025-03-02,BAKERY,pcs
+,Bittara,40,Rs. 120.00,3,2025-03-24,Fresh,pcs
+INV4312,SOFT DRINK-1 L,215,2365,11,30/03/25,beverages,pcs
+INV5561,Red Dhal 1kg,300,75.0,0.25,2025-04-03,DRY GOODS,kg
+INV1801,nadu rice 1 kg, ,"Rs. 1,200.00",5,18 Apr 2025,Dry Goods,kg
+INV7567,Red Dhal 1kg,345,"1,725.00",five,2025-04-21,,kg
+INV5857,Instant Noodles,145,580,4,24 Apr 2025,PACKAGED,pcs
+INV7386,Thee-400 g,475,1425, ,27 Apr 2025,Beverages,pack
+,COCONUT OIL-1 L,1090,1635.0,1.5,2025-05-03,,l
+INV7901,Pol,110,660,,5 May 2025,Fresh,pcs
+INV8807,Mineral Water 500ml,100,100,1 pcs,2025-05-08,Beverages,pcs
+INV8667,CHILLI POWDER-250 g,345,3450,10 pack,2025-05-09, Spices ,pack
+INV6274,Vegetable Oil 1L,,0.0,1.5,2025-05-09,Oils,l
+INV3230,Nadu-1 kg,230.00,,1.5,2025-05-10,Dry Goods,kg
+INV5915,TURMERIC POWDER (100G),LKR 245.00,1470,6,2025-05-15, ,
+INV1005,Wheat Flour 1kg,Rs.255,Rs. 127.50,0.5,17/05/25,Dry Goods,kg
+INV2226,DISH WASH LIQUID (500ML),385,4235,11,2025-05-22,Household,pcs
+INV5117,Samba Rice 1kg,270,1350,5,2025-05-30,dry goods,kg
+INV6105,Tea Leaves 400g,435,-4350,10,14 Jun 2025,Beverages,pack
+INV4420,Laundry Detergent 1kg,485,3395,7,2025-06-16, Household ,pack
+INV2094,Dish Wash Liquid 500ml,,"LKR 2,920.00",8,2025-06-18,Household,pcs
+INV1970,Kiri Piti 400g,"1,005.00",4020,,2025-06-18,Dairy,pack
+INV7723,Wheat Flour 1kg,Rs. 220.00,330.0,1.5,2025-06-20,Dry Goods,kg
+INV3298,WHEAT FLOUR 1kg, ,LKR 470.00,2,26/06/25,Dry Goods,kg
+INV3355,EGGS,0,0,5,2025-06-27,Fresh,pcs
+INV8879,VEGETABLE OIL (1L),1000,"Rs.2,000",2,2025-06-28,Oils,l
+,Eggs,35,280,8,30 Jun 2025,FRESH,pcs
+INV4972,SALT (1KG),110,220,2,2025-06-30,Dry Goods,pack
+INV7410,Coconut,115,"Rs.1,380",12,2 Jul 2025,Fresh,pcs
+INV3612,Samba Rice 1kg,260,0,1,3 Jul 2025,Dry Goods,kg
+INV7865,CHILLI POWDER-250 g,Rs.345,0,11 pack,2025-07-04,Spices,pack
+INV7406,Dried Fish 250g,725,6525,9,12 Jul 2025, Dry Goods ,pack
+INV4168,Tea Leaves 400g,Rs.475,"2,850.00",6pack,2025-07-15,Beverages,pack
+INV5072,Eggs,40,240.00,6,2025-07-21,Fresh,pcs
+INV6741,COCONUT,Rs. 120.00,360,3,,Fresh,pcs
+INV2155,LAUNDRY DETERGENT (1KG),Rs.510,"Rs. 2,550.00",5,25/07/25,Household,pack
+INV4707,Biscuits 200g,Rs.120,720,6,31 Jul 2025,packaged,pack
+INV5525,Coconut Oil 1L,930,4650,5,3 Aug 2025,Oils,l
+INV3300,coconut,110,Rs. 880.00,8, ,Fresh,pcs
+INV7577,curry powder 250 g,Rs.250,2250,9, ,Spices,pack
+INV3022,VEGETABLE OIL 1 L,940,"1,410.00",1.5l,,Oils,l
+INV3487,Soap 100g,LKR 150.00,1650,11,14/08/25,Household,pcs
+INV4372,SUGAR (1KG),260,65.0,0.25, , Dry Goods ,kg
+INV8264,WHEAT FLOUR 1 kg,225,Rs.562,2.5,22/08/25,Dry Goods,
+INV3333,Sabun Piti 1kg,490,2940,6,2025-08-23,Household,pack
+INV5513,Laundry Detergent 1kg,465.00,4185,9pack,24/08/25,Household,pack
+INV6365,SAMBA RICE (1KG),Rs.270,270,1,06/09/25,Dry Goods,kg
+ ,Soap 100g,150,300,2,07/09/25,Household,pcs
+INV2921, ,140,840,6,11 Sep 2025,Household,pcs
+ , ,335,2345,7,2025-09-13,Household,pcs
+INV6098,Tea Leaves-400 g,0.0,4565,11,2025-09-18,beverages,pack
+INV9589,Mineral Water 500ml,115, ,1,2025-09-23,Beverages,pcs
+INV2681,LAUNDRY DETERGENT (1KG),480,"Rs.4,320",9,2025-09-25,household,pack
+INV8718,Chilli Powder 250 g,Rs.395,"1,185.00",3,3 Oct 2025,spices,pack
+INV4804,Dishwash 500 ml,375,750,2,2025-10-08,,
+INV8180,Salt 1kg,95,380,4,2025-10-13,Dry Goods,pack
+INV5895,green gram 1kg,655,982.5,1.5,15 Oct 2025,Dry Goods,kg
+INV3045,Tea Leaves 400g,480,960,2,2025-10-17, Beverages ,pack
+INV9867,Chilli Powder 250g,340,680,2,2025-10-18, Spices ,pack
+INV8444,Dried Fish 250g,740,6660,9,21 Oct 2025, Dry Goods ,pack
+INV3517,chilli powder-250 g,335,4020,12,22 Oct 2025,Spices,pack
+INV2153,MINERAL WATER (500ML),110,550,,2025-10-25,Beverages,pcs
+INV6593,Tea Leaves 400g,470,1410,three,27 Oct 2025,,pack
+INV5458,Salt 1kg,100,Rs. 600.00,6,30 Oct 2025, Dry Goods ,pack
+INV1671,Biscuit 200g,Rs. 115.00,,5pack,2025-10-30, ,pack
+INV7250, ,LKR 135.00,1080,8 pcs,2025-11-05,Household,pcs
+INV5185,, ,1410.0,1.5,2025-11-06,Oils,l
+INV2848,COCONUT OIL (1L),1050,2100,2 l,7 Nov 2025,Oils,l
+INV8643,Bread 450g,170.00,340,2,7 Nov 2025,Bakery,pcs
+INV7978,DISH WASH LIQUID (500ML),330,"Rs.2,970",9,2025-11-12,Household,
+INV3759,Seeni-1 kg,310,0.0,0.5,2025-11-18,Dry Goods,kg
+INV8983,Wheat Flour 1kg,Rs.240,Rs. 360.00,1.5,2025-11-19, Dry Goods ,kg
+INV5769,NADU RICE 1 kg,235,"1,175.00",5 kg,2025-11-22,dry goods,kg
+INV4680,Instant Noodles,145,1305,9,2025-11-24,Packaged,pcs
+INV9566,Milk Powder 400g,965,3860,4,2025-11-26,Dairy,pack
+INV2688,Milk Powder 400g,Rs. 970.00,2910,3,2025-11-28,,pack
+INV2451,Soda 1L,250,"Rs.2,750",11,28 Nov 2025,Beverages,pcs
+INV6940,Turmeric Powder 100g,240,Rs.960,4,7 Dec 2025,Spices,pack
+INV4953,Red Dhal 1kg,LKR 315.00, ,5,08/12/25,Dry Goods,kg
+INV9102,Curry Powder 250g,300,300,1 pack,2025-12-08,Spices,pack
+INV8085,Red Dhal 1kg,320,160.0,0.5,2025-12-09, ,kg
+INV7908,Curry Powder-250 g,-260,3120,12 pack,2025-12-11,Spices,pack
+INV1928,Mineral Water 500ml,95,, ,16/12/25,Beverages,pcs
+INV2723,Sugar 1kg,285,,1,24/12/25,Dry Goods,
+INV5590,eggs,35,315,9 pcs,2025-12-29,fresh,pcs
+INV5519,KIRI PITI (400G),,"Rs.10,300",10 pack,30 Dec 2025,Dairy,pack

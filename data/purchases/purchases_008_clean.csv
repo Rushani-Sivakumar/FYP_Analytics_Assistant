@@ -1,0 +1,205 @@
+﻿invoice_id,transaction_date,supplier_name,product_name,quantity,unit_of_measure,cost_price,total_amount
+PO-3666,2025-01-01,Kandy Agro Supplies,Samba Rice 1kg,25.0,kg,205,5125.0
+PO-8097,2025-01-05,Nimal Stores,Salt 1kg,110.0,pack,80,8800.0
+PO-9275,2025-01-09,Lanka Wholesale,Nadu Rice 1kg,25.0,kg,175,4375.0
+PO-3428,2025-01-09,Colombo Foods (Pvt) Ltd,Green Gram 1kg,50.0,kg,485,24250.0
+PO-3085,2025-01-13,Ruwan Enterprises,Nadu Rice 1kg,5.0,kg,185,925.0
+PO-6100,2025-01-15,Ruwan Enterprises,Wheat Flour 1kg,15.0,kg,205,3075.0
+PO-6701,2025-01-15,Colombo Foods (Pvt) Ltd,Eggs,120.0,pcs,25,3000.0
+PO-1986,2025-01-17,Ruwan Enterprises,Coconut,80.0,pcs,95,7600.0
+PO-5390,2025-01-18,Colombo Foods (Pvt) Ltd,Curry Powder 250g,60.0,pack,200,12000.0
+PO-8692,2025-01-22,Ceylon Traders,Chilli Powder 250g,30.0,pack,285,8550.0
+PO-3433,2025-01-24,Nimal Stores,Coconut Oil 1L,5.0,l,820,4100.0
+PO-2764,2025-01-25,Nimal Stores,Milk Powder 400g,120.0,pack,840,100800.0
+PO-6614,2025-02-02,Nimal Stores,Instant Noodles,120.0,pcs,125,15000.0
+PO-6634,2025-02-04,Nimal Stores,Soft Drink 1L,60.0,pcs,170,10200.0
+PO-7162,2025-02-06,Ceylon Traders,Curry Powder 250g,70.0,pack,195,13650.0
+PO-4883,2025-02-08,Nimal Stores,Dried Fish 250g,40.0,pack,525,21000.0
+PO-3306,2025-02-08,Ruwan Enterprises,Tea Leaves 400g,80.0,pack,370,29600.0
+PO-6530,2025-02-08,Ceylon Traders,Nadu Rice 1kg,2.5,kg,190,475.0
+PO-3420,2025-02-09,Colombo Foods (Pvt) Ltd,Dish Wash Liquid 500ml,10.0,pcs,270,2700.0
+PO-7124,2025-02-11,Ruwan Enterprises,Soft Drink 1L,110.0,pcs,185,20350.0
+PO-9349,2025-02-12,Nimal Stores,Samba Rice 1kg,25.0,kg,215,5375.0
+PO-9205,2025-02-13,Nimal Stores,Wheat Flour 1kg,25.0,kg,195,4875.0
+PO-9422,2025-02-16,Silva Distributors,Dish Wash Liquid 500ml,90.0,pcs,260,23400.0
+PO-6990,2025-02-16,Nimal Stores,Laundry Detergent 1kg,110.0,pack,400,44000.0
+PO-9361,2025-02-19,Perera & Sons,Salt 1kg,100.0,pack,85,8500.0
+PO-3131,2025-02-23,Silva Distributors,Vegetable Oil 1L,15.0,l,785,11775.0
+PO-2049,2025-02-23,Silva Distributors,Milk Powder 400g,40.0,pack,875,35000.0
+PO-3331,2025-02-24,Kandy Agro Supplies,Soap 100g,40.0,pcs,110,4400.0
+PO-5730,2025-02-26,Lanka Wholesale,Nadu Rice 1kg,50.0,kg,190,9500.0
+PO-1974,2025-02-28,Ceylon Traders,Samba Rice 1kg,10.0,kg,200,2000.0
+PO-3347,2025-03-02,Lanka Wholesale,Eggs,120.0,pcs,30,3600.0
+PO-4485,2025-03-04,Colombo Foods (Pvt) Ltd,Wheat Flour 1kg,15.0,kg,195,2925.0
+PO-9210,2025-03-05,Ruwan Enterprises,Soft Drink 1L,20.0,pcs,180,3600.0
+PO-2879,2025-03-06,Ceylon Traders,Salt 1kg,40.0,pack,85,3400.0
+PO-5098,2025-03-07,Kandy Agro Supplies,Salt 1kg,110.0,pack,90,9900.0
+PO-1362,2025-03-07,Ruwan Enterprises,Bread 450g,110.0,pcs,135,14850.0
+PO-5097,2025-03-07,Nimal Stores,Laundry Detergent 1kg,10.0,pack,405,4050.0
+PO-1772,2025-03-08,Nimal Stores,Salt 1kg,90.0,pack,75,6750.0
+PO-9768,2025-03-12,Ceylon Traders,Red Dhal 1kg,10.0,kg,235,2350.0
+PO-8625,2025-03-13,Silva Distributors,Eggs,30.0,pcs,30,900.0
+PO-4847,2025-03-17,Ruwan Enterprises,Red Dhal 1kg,10.0,kg,240,2400.0
+PO-2412,2025-03-17,Nimal Stores,Milk Powder 400g,80.0,pack,860,68800.0
+PO-4724,2025-03-19,Perera & Sons,Instant Noodles,20.0,pcs,115,2300.0
+PO-4311,2025-03-19,Silva Distributors,Mineral Water 500ml,100.0,pcs,85,8500.0
+PO-2766,2025-03-20,Ceylon Traders,Curry Powder 250g,60.0,pack,220,13200.0
+PO-3525,2025-03-20,Perera & Sons,Instant Noodles,40.0,pcs,125,5000.0
+PO-6495,2025-03-20,Ruwan Enterprises,Wheat Flour 1kg,10.0,kg,200,2000.0
+PO-7785,2025-03-20,Ruwan Enterprises,Wheat Flour 1kg,5.0,kg,200,1000.0
+PO-1059,2025-03-21,Ruwan Enterprises,Coconut,10.0,pcs,90,900.0
+PO-7300,2025-03-22,Colombo Foods (Pvt) Ltd,Dried Fish 250g,120.0,pack,525,63000.0
+PO-4938,2025-03-26,Lanka Wholesale,Sugar 1kg,50.0,kg,210,10500.0
+PO-5164,2025-03-26,Colombo Foods (Pvt) Ltd,Sugar 1kg,15.0,kg,240,3600.0
+PO-9231,2025-03-26,Kandy Agro Supplies,Eggs,80.0,pcs,25,2000.0
+PO-4878,2025-03-26,Nimal Stores,Coconut Oil 1L,50.0,l,785,39250.0
+PO-7809,2025-03-29,Silva Distributors,Soft Drink 1L,30.0,pcs,195,5850.0
+PO-6579,2025-03-29,Perera & Sons,Dried Fish 250g,20.0,pack,570,11400.0
+PO-5788,2025-03-29,Ruwan Enterprises,Vegetable Oil 1L,20.0,l,680,13600.0
+PO-7108,2025-03-29,Lanka Wholesale,Curry Powder 250g,80.0,pack,225,18000.0
+PO-6716,2025-03-31,Kandy Agro Supplies,Samba Rice 1kg,2.5,kg,185,462.5
+PO-8705,2025-04-06,Nimal Stores,Coconut,70.0,pcs,90,6300.0
+PO-1035,2025-04-11,Colombo Foods (Pvt) Ltd,Milk Powder 400g,110.0,pack,860,94600.0
+PO-2312,2025-04-18,Kandy Agro Supplies,Eggs,40.0,pcs,30,1200.0
+PO-8562,2025-04-20,Colombo Foods (Pvt) Ltd,Mineral Water 500ml,50.0,pcs,85,4250.0
+PO-3719,2025-04-21,Ceylon Traders,Tea Leaves 400g,60.0,pack,340,20400.0
+PO-8728,2025-04-22,Perera & Sons,Eggs,110.0,pcs,25,2750.0
+PO-9350,2025-04-23,Silva Distributors,Instant Noodles,80.0,pcs,115,9200.0
+PO-6786,2025-04-23,Colombo Foods (Pvt) Ltd,Biscuits 200g,90.0,pack,105,9450.0
+PO-4471,2025-04-23,Ruwan Enterprises,Milk Powder 400g,50.0,pack,735,36750.0
+PO-9664,2025-04-25,Nimal Stores,Samba Rice 1kg,20.0,kg,210,4200.0
+PO-8624,2025-04-26,Lanka Wholesale,Milk Powder 400g,40.0,pack,840,33600.0
+PO-5291,2025-04-26,Ceylon Traders,Biscuits 200g,100.0,pack,100,10000.0
+PO-6533,2025-04-28,Kandy Agro Supplies,Laundry Detergent 1kg,100.0,pack,410,41000.0
+PO-9155,2025-04-29,Perera & Sons,Coconut,120.0,pcs,85,10200.0
+PO-4478,2025-04-30,Kandy Agro Supplies,Biscuits 200g,80.0,pack,105,8400.0
+PO-8063,2025-04-30,Kandy Agro Supplies,Eggs,50.0,pcs,30,1500.0
+PO-5370,2025-05-01,Nimal Stores,Instant Noodles,20.0,pcs,115,2300.0
+PO-2976,2025-05-01,Perera & Sons,Samba Rice 1kg,5.0,kg,205,1025.0
+PO-5114,2025-05-01,Kandy Agro Supplies,Coconut Oil 1L,10.0,l,790,7900.0
+PO-3273,2025-05-01,Lanka Wholesale,Dish Wash Liquid 500ml,40.0,pcs,300,12000.0
+PO-9753,2025-05-02,Nimal Stores,Laundry Detergent 1kg,20.0,pack,415,8300.0
+PO-7610,2025-05-02,Colombo Foods (Pvt) Ltd,Eggs,120.0,pcs,25,3000.0
+PO-5612,2025-05-03,Kandy Agro Supplies,Red Dhal 1kg,5.0,kg,280,1400.0
+PO-1072,2025-05-06,Colombo Foods (Pvt) Ltd,Soap 100g,40.0,pcs,105,4200.0
+PO-2895,2025-05-07,Kandy Agro Supplies,Coconut,110.0,pcs,90,9900.0
+PO-2321,2025-05-08,Ruwan Enterprises,Coconut,50.0,pcs,95,4750.0
+PO-1274,2025-05-10,Silva Distributors,Bread 450g,70.0,pcs,135,9450.0
+PO-2328,2025-05-11,Nimal Stores,Bread 450g,110.0,pcs,120,13200.0
+PO-3706,2025-05-13,Ceylon Traders,Laundry Detergent 1kg,100.0,pack,390,39000.0
+PO-1447,2025-05-16,Kandy Agro Supplies,Wheat Flour 1kg,5.0,kg,185,925.0
+PO-1790,2025-05-16,Silva Distributors,Samba Rice 1kg,25.0,kg,195,4875.0
+PO-4031,2025-05-18,Lanka Wholesale,Green Gram 1kg,20.0,kg,465,9300.0
+PO-2356,2025-05-19,Perera & Sons,Sugar 1kg,15.0,kg,230,3450.0
+PO-1455,2025-05-24,Lanka Wholesale,Salt 1kg,90.0,pack,85,7650.0
+PO-8289,2025-05-25,Lanka Wholesale,Dish Wash Liquid 500ml,40.0,pcs,280,11200.0
+PO-7831,2025-05-28,Lanka Wholesale,Instant Noodles,80.0,pcs,120,9600.0
+PO-4994,2025-05-29,Kandy Agro Supplies,Sugar 1kg,50.0,kg,215,10750.0
+PO-7171,2025-05-29,Ruwan Enterprises,Coconut,10.0,pcs,90,900.0
+PO-7430,2025-06-01,Ceylon Traders,Soap 100g,20.0,pcs,105,2100.0
+PO-1019,2025-06-02,Nimal Stores,Green Gram 1kg,5.0,kg,490,2450.0
+PO-3190,2025-06-02,Lanka Wholesale,Biscuits 200g,50.0,pack,100,5000.0
+PO-1067,2025-06-07,Colombo Foods (Pvt) Ltd,Chilli Powder 250g,80.0,pack,290,23200.0
+PO-6483,2025-06-12,Nimal Stores,Salt 1kg,20.0,pack,75,1500.0
+PO-2559,2025-06-22,Silva Distributors,Dish Wash Liquid 500ml,10.0,pcs,280,2800.0
+PO-1222,2025-06-22,Kandy Agro Supplies,Milk Powder 400g,20.0,pack,745,14900.0
+PO-4211,2025-06-27,Kandy Agro Supplies,Salt 1kg,10.0,pack,90,900.0
+PO-4024,2025-06-27,Ceylon Traders,Instant Noodles,40.0,pcs,120,4800.0
+PO-9659,2025-06-28,Nimal Stores,Soft Drink 1L,90.0,pcs,165,14850.0
+PO-3675,2025-06-30,Ceylon Traders,Tea Leaves 400g,40.0,pack,345,13800.0
+PO-2704,2025-07-05,Perera & Sons,Milk Powder 400g,110.0,pack,800,88000.0
+PO-3899,2025-07-08,Kandy Agro Supplies,Turmeric Powder 100g,40.0,pack,170,6800.0
+PO-6818,2025-07-10,Colombo Foods (Pvt) Ltd,Instant Noodles,40.0,pcs,110,4400.0
+PO-3186,2025-07-11,Perera & Sons,Mineral Water 500ml,20.0,pcs,85,1700.0
+PO-6699,2025-07-11,Perera & Sons,Soft Drink 1L,20.0,pcs,175,3500.0
+PO-6874,2025-07-12,Perera & Sons,Eggs,30.0,pcs,30,900.0
+PO-3962,2025-07-15,Colombo Foods (Pvt) Ltd,Soft Drink 1L,100.0,pcs,170,17000.0
+PO-1429,2025-07-16,Silva Distributors,Mineral Water 500ml,80.0,pcs,85,6800.0
+PO-3123,2025-07-19,Ceylon Traders,Laundry Detergent 1kg,100.0,pack,375,37500.0
+PO-9193,2025-07-22,Lanka Wholesale,Coconut Oil 1L,15.0,l,790,11850.0
+PO-2211,2025-07-26,Colombo Foods (Pvt) Ltd,Green Gram 1kg,25.0,kg,480,12000.0
+PO-4547,2025-07-27,Perera & Sons,Red Dhal 1kg,10.0,kg,255,2550.0
+PO-6492,2025-07-30,Perera & Sons,Eggs,50.0,pcs,30,1500.0
+PO-3176,2025-07-30,Silva Distributors,Tea Leaves 400g,60.0,pack,340,20400.0
+PO-5086,2025-08-04,Ceylon Traders,Coconut,30.0,pcs,85,2550.0
+PO-5029,2025-08-04,Ruwan Enterprises,Wheat Flour 1kg,15.0,kg,180,2700.0
+PO-9500,2025-08-07,Ruwan Enterprises,Green Gram 1kg,50.0,kg,470,23500.0
+PO-9699,2025-08-08,Silva Distributors,Chilli Powder 250g,110.0,pack,290,31900.0
+PO-3233,2025-08-10,Perera & Sons,Instant Noodles,70.0,pcs,105,7350.0
+PO-9887,2025-08-11,Colombo Foods (Pvt) Ltd,Tea Leaves 400g,110.0,pack,340,37400.0
+PO-6522,2025-08-12,Colombo Foods (Pvt) Ltd,Sugar 1kg,20.0,kg,215,4300.0
+PO-6222,2025-08-12,Colombo Foods (Pvt) Ltd,Instant Noodles,70.0,pcs,110,7700.0
+PO-8952,2025-08-12,Colombo Foods (Pvt) Ltd,Vegetable Oil 1L,15.0,l,785,11775.0
+PO-7885,2025-08-20,Ceylon Traders,Vegetable Oil 1L,25.0,l,695,17375.0
+PO-8827,2025-08-21,Ruwan Enterprises,Milk Powder 400g,30.0,pack,760,22800.0
+PO-7346,2025-08-23,Ruwan Enterprises,Tea Leaves 400g,110.0,pack,355,39050.0
+PO-4286,2025-08-25,Ceylon Traders,Dish Wash Liquid 500ml,50.0,pcs,280,14000.0
+PO-1891,2025-08-25,Silva Distributors,Soft Drink 1L,30.0,pcs,170,5100.0
+PO-3612,2025-08-26,Colombo Foods (Pvt) Ltd,Chilli Powder 250g,90.0,pack,305,27450.0
+PO-4775,2025-08-30,Lanka Wholesale,Red Dhal 1kg,5.0,kg,240,1200.0
+PO-6801,2025-09-01,Lanka Wholesale,Nadu Rice 1kg,5.0,kg,195,975.0
+PO-9510,2025-09-02,Nimal Stores,Soap 100g,80.0,pcs,110,8800.0
+PO-9569,2025-09-03,Perera & Sons,Milk Powder 400g,70.0,pack,790,55300.0
+PO-7508,2025-09-04,Kandy Agro Supplies,Laundry Detergent 1kg,70.0,pack,425,29750.0
+PO-1025,2025-09-09,Colombo Foods (Pvt) Ltd,Wheat Flour 1kg,5.0,kg,180,900.0
+PO-1935,2025-09-11,Nimal Stores,Biscuits 200g,80.0,pack,95,7600.0
+PO-1897,2025-09-11,Nimal Stores,Bread 450g,90.0,pcs,130,11700.0
+PO-1085,2025-09-12,Ruwan Enterprises,Bread 450g,90.0,pcs,120,10800.0
+PO-1315,2025-09-13,Ceylon Traders,Coconut,120.0,pcs,100,12000.0
+PO-5588,2025-09-15,Ruwan Enterprises,Curry Powder 250g,40.0,pack,220,8800.0
+PO-7448,2025-09-16,Silva Distributors,Soap 100g,20.0,pcs,115,2300.0
+PO-9455,2025-09-16,Kandy Agro Supplies,Soap 100g,40.0,pcs,110,4400.0
+PO-4316,2025-09-20,Colombo Foods (Pvt) Ltd,Laundry Detergent 1kg,10.0,pack,410,4100.0
+PO-6884,2025-09-20,Ruwan Enterprises,Mineral Water 500ml,70.0,pcs,85,5950.0
+PO-3358,2025-09-20,Colombo Foods (Pvt) Ltd,Coconut,70.0,pcs,85,5950.0
+PO-5977,2025-09-21,Kandy Agro Supplies,Vegetable Oil 1L,15.0,l,800,12000.0
+PO-2553,2025-09-24,Kandy Agro Supplies,Bread 450g,20.0,pcs,135,2700.0
+PO-6559,2025-09-24,Ruwan Enterprises,Biscuits 200g,30.0,pack,95,2850.0
+PO-1897,2025-09-25,Lanka Wholesale,Samba Rice 1kg,25.0,kg,205,5125.0
+PO-8485,2025-09-25,Ceylon Traders,Soft Drink 1L,40.0,pcs,190,7600.0
+PO-7864,2025-09-25,Lanka Wholesale,Mineral Water 500ml,120.0,pcs,80,9600.0
+PO-6883,2025-09-26,Ruwan Enterprises,Curry Powder 250g,80.0,pack,215,17200.0
+PO-3601,2025-09-28,Kandy Agro Supplies,Vegetable Oil 1L,20.0,l,800,16000.0
+PO-4480,2025-09-30,Ruwan Enterprises,Eggs,70.0,pcs,25,1750.0
+PO-4300,2025-10-04,Ruwan Enterprises,Samba Rice 1kg,20.0,kg,180,3600.0
+PO-6185,2025-10-05,Ruwan Enterprises,Coconut Oil 1L,20.0,l,845,16900.0
+PO-8915,2025-10-07,Kandy Agro Supplies,Vegetable Oil 1L,10.0,l,790,7900.0
+PO-1757,2025-10-16,Ruwan Enterprises,Nadu Rice 1kg,50.0,kg,180,9000.0
+PO-2832,2025-10-19,Nimal Stores,Soft Drink 1L,40.0,pcs,170,6800.0
+PO-2672,2025-10-28,Perera & Sons,Curry Powder 250g,40.0,pack,215,8600.0
+PO-7864,2025-10-28,Silva Distributors,Soft Drink 1L,90.0,pcs,195,17550.0
+PO-6241,2025-10-30,Perera & Sons,Sugar 1kg,5.0,kg,235,1175.0
+PO-1768,2025-10-30,Lanka Wholesale,Mineral Water 500ml,120.0,pcs,85,10200.0
+PO-3246,2025-10-30,Colombo Foods (Pvt) Ltd,Green Gram 1kg,15.0,kg,510,7650.0
+PO-9528,2025-11-03,Lanka Wholesale,Mineral Water 500ml,120.0,pcs,85,10200.0
+PO-1885,2025-11-12,Kandy Agro Supplies,Chilli Powder 250g,120.0,pack,295,35400.0
+PO-7616,2025-11-15,Ceylon Traders,Dried Fish 250g,50.0,pack,535,26750.0
+PO-6703,2025-11-16,Lanka Wholesale,Instant Noodles,110.0,pcs,110,12100.0
+PO-2609,2025-11-19,Nimal Stores,Biscuits 200g,60.0,pack,95,5700.0
+PO-6742,2025-11-20,Kandy Agro Supplies,Coconut Oil 1L,25.0,l,790,19750.0
+PO-3187,2025-11-21,Silva Distributors,Bread 450g,50.0,pcs,125,6250.0
+PO-8343,2025-11-23,Ruwan Enterprises,Eggs,120.0,pcs,25,3000.0
+PO-1529,2025-11-23,Colombo Foods (Pvt) Ltd,Dish Wash Liquid 500ml,90.0,pcs,305,27450.0
+PO-2543,2025-11-25,Lanka Wholesale,Curry Powder 250g,30.0,pack,230,6900.0
+PO-3493,2025-11-26,Nimal Stores,Laundry Detergent 1kg,80.0,pack,405,32400.0
+PO-8926,2025-11-27,Lanka Wholesale,Tea Leaves 400g,40.0,pack,345,13800.0
+PO-5522,2025-11-30,Colombo Foods (Pvt) Ltd,Sugar 1kg,25.0,kg,215,5375.0
+PO-1019,2025-11-30,Ceylon Traders,Salt 1kg,100.0,pack,80,8000.0
+PO-2873,2025-12-02,Perera & Sons,Red Dhal 1kg,10.0,kg,255,2550.0
+PO-3373,2025-12-02,Colombo Foods (Pvt) Ltd,Curry Powder 250g,50.0,pack,200,10000.0
+PO-7958,2025-12-03,Perera & Sons,Salt 1kg,90.0,pack,85,7650.0
+PO-8657,2025-12-07,Colombo Foods (Pvt) Ltd,Curry Powder 250g,110.0,pack,215,23650.0
+PO-7842,2025-12-07,Perera & Sons,Bread 450g,110.0,pcs,120,13200.0
+PO-5358,2025-12-09,Ceylon Traders,Wheat Flour 1kg,2.5,kg,180,450.0
+PO-3200,2025-12-10,Perera & Sons,Coconut Oil 1L,15.0,l,845,12675.0
+PO-5358,2025-12-15,Kandy Agro Supplies,Coconut Oil 1L,15.0,l,800,12000.0
+PO-6191,2025-12-15,Ruwan Enterprises,Soap 100g,20.0,pcs,110,2200.0
+PO-5922,2025-12-18,Ruwan Enterprises,Eggs,50.0,pcs,30,1500.0
+PO-9056,2025-12-19,Kandy Agro Supplies,Dish Wash Liquid 500ml,100.0,pcs,280,28000.0
+PO-7764,2025-12-20,Nimal Stores,Red Dhal 1kg,20.0,kg,255,5100.0
+PO-9076,2025-12-22,Colombo Foods (Pvt) Ltd,Sugar 1kg,15.0,kg,225,3375.0
+PO-2388,2025-12-22,Perera & Sons,Bread 450g,120.0,pcs,130,15600.0
+PO-3475,2025-12-23,Nimal Stores,Samba Rice 1kg,2.5,kg,185,462.5
+PO-3251,2025-12-25,Lanka Wholesale,Tea Leaves 400g,10.0,pack,330,3300.0
+PO-5904,2025-12-26,Kandy Agro Supplies,Dish Wash Liquid 500ml,90.0,pcs,295,26550.0
+PO-8438,2025-12-29,Perera & Sons,Coconut Oil 1L,25.0,l,730,18250.0
